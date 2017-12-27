@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 #this is a branch!
 #需要保存现场去修复master的bug
 
+=======
+# 你好啊！
+# 下面有一个bug需要修复！
+>>>>>>> Stashed changes
